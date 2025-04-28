@@ -11,7 +11,7 @@ function App() {
         <Badge label="Hello World" color="success" />
       </div>
     </div>
-  );
+  );//jn
 }
 
 export default App;
