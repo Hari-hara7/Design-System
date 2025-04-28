@@ -40,3 +40,22 @@ This project covers **Color System**, **Data Display Components**, and **Navigat
 git clone https://github.com/Hari-hara7/Design-System.git
 cd design-system-assignment/app
 ```
+
+
+##  🌐 Deployment
+##  Deployed via Chromatic.
+
+##  🔗 Live Storybook Link
+
+(https://680f03b7999b06cd45fefa2f-dxyajcnhdf.chromatic.com/)
+
+## 🖼 Screenshots
+
+Here are some preview screenshots of the Design System:
+
+| Storybook Home | Components View |
+|:--------------:|:---------------:|
+| ![Home](image.png) | ![Components](image2.png) |
+
+
+
