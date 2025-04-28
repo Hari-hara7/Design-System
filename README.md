@@ -1,6 +1,6 @@
 # 🎨 Design System Assignment
 
-A reusable and scalable Design System built with **React + TypeScript + TailwindCSS + Storybook**.  
+A reusable and scalable Design System built with **React + TypeScript + CSS + Storybook**.  
 This project covers **Color System**, **Data Display Components**, and **Navigation Components**.
 
 ---
