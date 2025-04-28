@@ -1,0 +1,19 @@
+.navbar {
+    background-color: var(--primary-color);
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-menu {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .navbar-menu li {
+    cursor: pointer;
+  }
+  

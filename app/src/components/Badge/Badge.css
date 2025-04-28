@@ -1,0 +1,24 @@
+.badge {
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 14px;
+    display: inline-block;
+    color: white;
+  }
+  
+  .badge.primary {
+    background-color: var(--primary-color);
+  }
+  
+  .badge.secondary {
+    background-color: var(--secondary-color);
+  }
+  
+  .badge.success {
+    background-color: var(--success-color);
+  }
+  
+  .badge.error {
+    background-color: var(--error-color);
+  }
+  
